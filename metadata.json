@@ -1,0 +1,6 @@
+{
+  "name": "KEE! | Luxury Women's Fashion",
+  "description": "Elegance in every thread. Premium boutique fashion for women featuring luxury Kurtis, Maxi Dresses, Co-ord Sets, and Western Wear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
