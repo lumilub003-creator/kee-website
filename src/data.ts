@@ -1,10 +1,10 @@
 import { Product, FAQItem, Banner } from './types';
 
 export const IMAGES = {
-  hero: '/assets/images/raw_silk_hero_1783959059618.jpg',
-  kurtis: '/assets/images/raw_silk_hero_1783959059618.jpg',
-  maxis: '/assets/images/raw_silk_hero_1783959059618.jpg',
-  coords: '/assets/images/raw_silk_hero_1783959059618.jpg',
+  hero: '/src/assets/images/raw_silk_hero_1783959059618.jpg',
+  kurtis: '/src/assets/images/raw_silk_hero_1783959059618.jpg',
+  maxis: '/src/assets/images/raw_silk_hero_1783959059618.jpg',
+  coords: '/src/assets/images/raw_silk_hero_1783959059618.jpg',
 };
 
 export const COLLECTIONS = [
