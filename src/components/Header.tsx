@@ -95,7 +95,7 @@ export default function Header({
           <div className="text-center flex flex-col items-center cursor-pointer" onClick={() => handleNavClick('home')}>
             <div className="flex items-center gap-2 sm:gap-3">
               <img
-                src="/assets/logo.jpeg"
+                src="/logo.png"
                 alt="KEE! Brand"
                 width="180"
                 height="48"
@@ -345,7 +345,7 @@ export default function Header({
                     }}
                   >
                     <img
-                      src="/assets/logo.jpeg"
+                      src="/logo.png"
                       alt="KEE! Brand"
                       width="120"
                       height="32"
